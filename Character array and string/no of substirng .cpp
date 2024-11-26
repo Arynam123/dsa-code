@@ -10,7 +10,7 @@ using namespace std;
 //             return 0;
 //         }
 //         else{
-//             i++;
+//             i++;r
 //             j--;
 
 //         }
